@@ -38,7 +38,7 @@ GraphQL • Git • Maven
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thilak2804](https://www.linkedin.com/in/thilak-sujatha-krishnamurthy-a611ba180/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/thilak-sujatha-krishnamurthy-a611ba180/)  
 - 🌐 [Portfolio] 
 - 📧 thilak280400@gmail.com  
 
